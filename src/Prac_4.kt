@@ -6,3 +6,4 @@ fun main(){
     else
         println("Number is Even")
 }
+/*Aim : 4.Find the number is odd or even by using Control Flow inside println() method.*/

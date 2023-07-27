@@ -53,4 +53,5 @@ fun main(){
     for(i in arr7)
         print(" "+ i)
     }
+/*Aim : Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function*/
 

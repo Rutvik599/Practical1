@@ -7,3 +7,4 @@ fun fact(number:Int) :Int {
     else
         return 1
     }
+/*Aim : Find the factorial of number by recursion. Explain "tailrec" keyword. */

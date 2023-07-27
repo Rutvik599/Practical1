@@ -14,3 +14,5 @@ fun math(number1:Int,number2:Int,choice:String){
         else -> print("Enter the valid !")
     }
 }
+
+/*Aim : By using a user defined function perform all arithmetic operations.*/

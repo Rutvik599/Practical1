@@ -8,3 +8,6 @@ fun main(){
     println("String to Integer " +number2)
     println("String to Double " +dob1)
 }
+
+/*Aim : 2.Type conversion:
+Integer to Double, String to Integer, String to Double.*/

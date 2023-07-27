@@ -8,3 +8,4 @@ fun main(){
     println("\nThe Maximum number is : ${arr1.max()}")
 
 }
+/*Aim : Find the max number from ArrayList.*/

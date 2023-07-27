@@ -19,3 +19,5 @@ fun main(){
     println(" Enrollment No. $eno \n Name : $name1 \n Branch : $branch1 \n Class : $class1 \n Batch : $batch1 \n College : $clg \n University : $uny")
 
 }
+
+/*Aim : 3.Scan student’s information and display all the data.*/
