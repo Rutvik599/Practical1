@@ -32,10 +32,18 @@ class Car(val owner:String){
     }
 }
 fun main(){
+    println("\n *----------------------------- Object Created by manually ----------------------------*")
     var car_object1 = Car("Rutvik")
     car_object1.getCarInformation()
     car_object1.getCarPrice()
     car_object1.displayCarInfo()
+
+    println("\n *------------------------- Object Created by ArrayList<>() ---------------------------------* ")
+    var car_object_list = ArrayList<Car>()
+    car_object_list.add(Car("Margen"))
+    car_object_list[0].getCarInformation()
+    car_object_list[0].getCarPrice()
+    car_object_list[0].displayCarInfo()
 }
 
 /* Aim : Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
