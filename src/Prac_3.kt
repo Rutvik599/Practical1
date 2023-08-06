@@ -1,4 +1,5 @@
 fun main(){
+    println("Rutvik Patel_21012021081")
     println("student Enrollment No. :")
     val eno = readLine()!!
     println("student Name :")
@@ -16,7 +17,7 @@ fun main(){
     println("student Age :")
     val age = readLine()!!
     println("Students Data : ")
-    println(" Enrollment No. $eno \n Name : $name1 \n Branch : $branch1 \n Class : $class1 \n Batch : $batch1 \n College : $clg \n University : $uny")
+    println("\n Rutvik Patel_21012021081\nEnrollment No. $eno \n Name : $name1 \n Branch : $branch1 \n Class : $class1 \n Batch : $batch1 \n College : $clg \n University : $uny")
 
 }
 

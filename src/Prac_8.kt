@@ -1,4 +1,5 @@
 fun main(){
+    println("Rutvik Patel_21012021081")
     var arr1 = arrayOf("Rutvik","Prachi","Margen","Aksh","Virpal")
     var arr2 = Array(5){9}
     var arr3 = Array(5){i -> i + 1}

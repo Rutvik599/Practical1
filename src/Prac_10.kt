@@ -32,7 +32,7 @@ class Car(val owner:String){
     }
 }
 fun main(){
-    println("\n *----------------------------- Object Created by manually ----------------------------*")
+    println("Rutvik Patel_21012021081\n *----------------------------- Object Created by manually ----------------------------*")
     var car_object1 = Car("Rutvik")
     car_object1.getCarInformation()
     car_object1.getCarPrice()
